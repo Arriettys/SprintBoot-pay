@@ -1,0 +1,108 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "name": "alipay",
+      "type": "com.alipay.trade.properties.AlipayInfo"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "name": "alipay.alipay-public-key",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "name": "alipay.app-auth-token",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "name": "alipay.appid",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "defaultValue": 0,
+      "name": "alipay.cancel-duration",
+      "type": "java.lang.Long"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "name": "alipay.charset",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "name": "alipay.format",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "defaultValue": 0,
+      "name": "alipay.heartbeat-delay",
+      "type": "java.lang.Long"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "defaultValue": 0,
+      "name": "alipay.heartbeat-duration",
+      "type": "java.lang.Long"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "defaultValue": 0,
+      "name": "alipay.max-cancel-retry",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "defaultValue": 0,
+      "name": "alipay.max-query-retry",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "name": "alipay.mcloud-api-domain",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "name": "alipay.notify-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "name": "alipay.open-api-domain",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "name": "alipay.pid",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "name": "alipay.private-key",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "name": "alipay.public-key",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "defaultValue": 0,
+      "name": "alipay.query-duration",
+      "type": "java.lang.Long"
+    },
+    {
+      "sourceType": "com.alipay.trade.properties.AlipayInfo",
+      "name": "alipay.sign-type",
+      "type": "java.lang.String"
+    }
+  ]
+}
